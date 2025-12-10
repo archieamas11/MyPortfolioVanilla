@@ -13,5 +13,5 @@ This website showcases my projects, skills, and contact information.
 🚀 Live Demo
 </p>
 <p align="center">
-  <a href="https://albarico.is-a.dev/">🔗 Click here to view the live site</a>
+  <a href="https://albarico-vanilla.vercel.app/">🔗 Click here to view the live site</a>
 </p>
