@@ -1,4 +1,4 @@
-<h1 align="center"><strong>MY PORTFOLIO</strong>
+<h1 align="center"><strong>MY PORTFOLIO VANILLA</strong>
 <h4 align="center">
 <em>Welcome to my personal portfolio!  
 This website showcases my projects, skills, and contact information.
